@@ -1,0 +1,6 @@
+{
+  "name": "TaskDroid - Gestor de Tareas con Notificaciones Android",
+  "description": "Administrador de tareas con horario y sistema propio de notificaciones programadas estilo Android, alertas emergentes (Heads-up), sonido y vibración.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
